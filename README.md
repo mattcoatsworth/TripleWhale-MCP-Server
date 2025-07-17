@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mattcoatsworth-triplewhale-mcp-server-badge.png)](https://mseep.ai/app/mattcoatsworth-triplewhale-mcp-server)
+
 # Triple Whale MCP Server
 
     An MCP server for accessing Triple Whale e-commerce analytics data through the Triple Whale API.
